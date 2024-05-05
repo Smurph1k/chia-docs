@@ -67,9 +67,9 @@ While at least one Timelord is required for the blockchain to function, anyone c
 
 How many Farmers need to run a Timelord for the network?
 
-A. Every Farmer needs to run a Timelord.
-B. At least half the Farmers need to run a Timelord.
-C. Farmers aren't able to run Timelords.
+A. Every Farmer needs to run a Timelord.\
+At least half the Farmers need to run a Timelord.\
+Farmers aren't able to run Timelords.\
 D. Just one Timelord is needed for the network.
 
 :::
@@ -105,10 +105,10 @@ A. Timelords
 
 What are the primary purposes of VDFs? (choose all that apply)
 
-A. To slow down the network.
-B. To prove time has passed between blocks.
-C. Provide security to the network.
-D. Prepare for time travel integrations.
+A. To slow down the network.\
+B. To prove time has passed between blocks.\
+Provide security to the network.\
+Prepare for time travel integrations.
 
 :::
 
@@ -116,8 +116,8 @@ D. Prepare for time travel integrations.
 
 <summary> Answer (expand when ready to see the answer) </summary>
 
-B. To prove time has passed between blocks.
-C. Provide security to the network.
+B. To prove time has passed between blocks.\
+Provide security to the network.
 
 </details>
 

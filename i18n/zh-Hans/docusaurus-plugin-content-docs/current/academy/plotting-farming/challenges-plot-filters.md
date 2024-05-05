@@ -74,10 +74,9 @@ What are the two significant benefits of using a plot filter?
 
 <summary> Answer (expand when ready to see the answer)  </summary>
 
-```bash
 1. It further decentralizes the network.
-2. It reduces the amount of compute needed, improving network efficiency
-```
+2. 1. It further decentralizes the network.
+   2. It reduces the amount of compute needed, improving network efficiency
 
 </details>
 

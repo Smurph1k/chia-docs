@@ -106,7 +106,7 @@ True or False; When a block is created, the Timelord processes and evaluates all
 
 <summary> Answer (expand when ready to see the answer) </summary>
 
-`"False. The Farmer processes the smart coins contained in the block. The Timelord infuses the block to the rest of the chain."`
+False. The Farmer processes the smart coins contained in the block. The Timelord infuses the block to the rest of the chain."\`
 
 </details>
 
